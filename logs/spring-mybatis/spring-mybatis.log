@@ -1,0 +1,4 @@
+2020-05-20 17:29:45.238 [main] [INFO ]  com.example.demo.DemoApplication:55 - Starting DemoApplication on “localhost” with PID 89274 (/Users/pcaddos/IdeaProjects/logback/target/classes started by pcaddos in /Users/pcaddos/IdeaProjects/logback)
+2020-05-20 17:29:45.244 [main] [DEBUG]  com.example.demo.DemoApplication:56 - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-05-20 17:29:45.245 [main] [INFO ]  com.example.demo.DemoApplication:651 - No active profile set, falling back to default profiles: default
+2020-05-20 17:29:46.269 [main] [INFO ]  com.example.demo.DemoApplication:61 - Started DemoApplication in 1.509 seconds (JVM running for 2.542)
